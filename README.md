@@ -9,7 +9,7 @@ This project applies clustering algorithms on the Iris dataset, evaluates their 
 3. [Clustering Algorithms](#clustering-algorithms)
 4. [Metrics](#metrics)
 5. [Results](#results)
-6. [Flowchart](#flowchart)
+6. [Steps](#steps)
 7. [Images](#images)
 
 ## Overview
