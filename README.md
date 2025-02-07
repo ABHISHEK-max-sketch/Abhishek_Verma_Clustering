@@ -65,9 +65,7 @@ The results are saved in the following files:
     - `heatmap_hierarchical.png`
     - `heatmap_meanshift.png`
 
-## Flowchart
-
-![Clustering Process Flow](flowchart_image.png)
+## Steps
 
 - **Step 1**: Load the Iris dataset.
 - **Step 2**: Preprocess the data using different methods.
